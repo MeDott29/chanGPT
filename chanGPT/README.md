@@ -7,4 +7,4 @@ Then run
 chmod +x && ./setup.sh
 ```
 
-![alt text](/assets/image.png)
+![minimal chanGPT at Oct 16, 2024](/assets/image.png)
