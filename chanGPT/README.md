@@ -4,7 +4,7 @@ Before running `setup.sh`, replace the empty string in `NGROK_AUTHTOKEN=""` with
 
 Then run
  ```bash 
-chmod +x && ./setup.sh
+cp setup.sh .. && cd .. && chmod +x setup.sh && ./setup.sh
 ```
 
 ![minimal chanGPT at Oct 16, 2024](/assets/image.png)
