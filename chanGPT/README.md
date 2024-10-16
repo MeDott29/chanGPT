@@ -6,3 +6,5 @@ Then run
  ```bash 
 chmod +x && ./setup.sh
 ```
+
+![alt text](/assets/image.png)
