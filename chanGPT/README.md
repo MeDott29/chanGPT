@@ -2,4 +2,7 @@
 
 Before running `setup.sh`, replace the empty string in `NGROK_AUTHTOKEN=""` within `setup.sh` with your actual ngrok authtoken.
 
-Then run `./setup.sh`
+Then run
+ ```bash 
+chmod +x && ./setup.sh
+```
